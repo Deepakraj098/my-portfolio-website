@@ -408,17 +408,17 @@ a{
     transition: 0.5s;
 }
 #project1{
- background-image: url(/portfolio/image/car.jpg);
+ background-image: url(./image/car.jpg);
 }
 #project2{
-    background-image: url(/portfolio/image/building.jpg);
+    background-image: url(./image/building.jpg);
     margin-left: 120px;
 }
 #project3{
-    background-image: url(/portfolio/image/mansion.jpg);
+    background-image: url(./image/mansion.jpg);
 }
 #project4{
-    background-image: url(/portfolio/image/interior.jpg);
+    background-image: url(./image/interior.jpg);
     margin-left: 120px;
 }
 @media(max-width:1300px){
